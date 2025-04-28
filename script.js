@@ -3,7 +3,7 @@ const items = [
   {
     id: 1,
     title: 'Heavy-Duty Winch',
-    price: '$250',
+    price: 'AED 2500',
     image: 'images/winch.jpg',
     sellerPhone: '+971-50-123-4567',
     compatibility: ['LC80', 'LC100', 'LC105 (factory winch)'],
@@ -15,7 +15,7 @@ const items = [
   {
     id: 2,
     title: 'LED Light Bar',
-    price: '$120',
+    price: 'AED 1200',
     image: 'images/light-bar.jpg',
     sellerPhone: '+971-55-234-7890',
     compatibility: ['Universal'],
@@ -27,7 +27,7 @@ const items = [
   {
     id: 3,
     title: 'Front Bull Bar',
-    price: '$350',
+    price: 'AED 3500',
     image: 'images/bull-bar.jpg',
     sellerPhone: '+971-52-345-6789',
     compatibility: ['Ford F-150'],
